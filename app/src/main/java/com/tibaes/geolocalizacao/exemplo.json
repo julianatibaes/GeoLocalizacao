@@ -1,0 +1,21 @@
+{
+  "list":{
+    "localizacao":[
+      {
+        "cidade": "Curitiba",
+      "estado": "Paraná",
+      "pais": "Brasil"
+      },
+      {
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "pais": "Brasil"
+      },
+      {
+        "cidade": "New York",
+        "estado": "New York",
+        "pais": "United States"
+      }
+    ]
+  }
+}
